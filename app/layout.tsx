@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "人间失格",
+    title: "万物与我皆宜.",
     statusBarStyle: "default",
   },
 };
